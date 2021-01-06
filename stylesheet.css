@@ -1,0 +1,87 @@
+body {
+  background-image: url(https://i.ibb.co/K9ChJQn/new-new-new.png);
+}
+
+table {
+  background-color: white;
+  border: 1px solid black;
+  border-spacing: 12px;
+  text-align: left;
+}
+
+table.center {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  background-color: white;
+  padding: 20px;
+  border: 1px black solid;
+  text-align: center;
+
+}
+
+
+
+
+.inlog {
+  width: 20%;
+  margin: 0 auto;
+  padding: 15px;
+  background: white;
+  border: 1px black solid;
+}
+
+.h-center {
+  text-align: center;
+}
+
+.blok {
+  width: 25%;
+  margin: 0 auto;
+  padding: 15px;
+  background: white;
+  border: 1px black solid;
+}
+
+.nameinput {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.box {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.box div {
+  width: 100px;
+  height: 100px;
+  font-size: 30px;
+}
+
+input[type=button],
+button {
+  width:120px;
+  height:25px;
+  margin:0px 20px 0px 0px;
+  border-color: black; 
+  border: 1px;
+  border-radius:15px;
+  box-shadow:0px 0px 10px 3px rgba(0,0,0,0.2);
+  background-color:#ffffff;
+  font-size:14px;
+  cursor:hand;
+  cursor:pointer;
+  
+}
+.ruimte {
+  margin-top: 5px;
+}
+.resultimg{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
